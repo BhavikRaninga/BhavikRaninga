@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Bhavik 👋
 
-<!--
-**BhavikRaninga/BhavikRaninga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist & NLP Engineer from Surat, India.  
+I build end-to-end NLP and RAG applications using Python, Transformers, and modern tooling.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Legal AI RAG Chatbot](https://github.com/BhavikRaninga/Legal-AI-RAG-Chatbot)  
+  Indian legal assistant using sentence-aware chunking, BGE embeddings, FAISS, and Zephyr-7B with a Gradio UI.
+
+- [Fake vs Real News Detection](https://github.com/BhavikRaninga/Fake-Vs.-Real-News)  
+  NLP pipeline using classical ML to detect fake news, with clear preprocessing, evaluation, and deployment.
+
+## 🧠 Skills
+
+- **NLP**: Transformers, SentenceTransformers, RAG, embeddings, text preprocessing  
+- **ML**: Scikit-learn, model evaluation, cross-validation  
+- **Tools**: Python, Pandas, Gradio, Google Colab, Git/GitHub  
+- **Domains**: Legal NLP, fake news detection
+
+## 📫 Contact
+Email: raninga.bhavik18@gmail.com
+
+Thanks for visiting my profile!
